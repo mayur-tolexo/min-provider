@@ -1,0 +1,6 @@
+domain: my.domain
+layout:
+- go.kubebuilder.io/v3
+projectName: min-provider
+repo: github.com/mayur-tolexo/min-provider
+version: "3"
